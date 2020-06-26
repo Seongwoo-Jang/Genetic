@@ -13,4 +13,4 @@ categories: jekyll update
 
 게임 플레이 한 시간/ 게임의 티어
 
-![](images/시간 별 티어 상승 그래프.jpg)
+![](images/ga.jpg)
